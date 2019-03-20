@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab>
+    <property name="CopyAirBlocks" value="True" />
+    <property name="AllowTopSoilDecorations" value="True" />
+    <property name="Zoning" value="commercial,downtown" />
+    <property name="YOffset" value="-1" />
+    <property name="RotationToFaceNorth" value="2" />
+    <property name="AllowedTownships" value="city,town,rural" />
+    <property name="TraderArea" value="False" />
+    <property name="ExcludeDistantPOIMesh" value="False" />
+    <property name="SleeperVolumeSize" value="13, 7, 4#11, 5, 7#10, 6, 15#19, 7, 15#19, 5, 6#19, 6, 7#15, 6, 6#12, 5, 4" />
+    <property name="SleeperVolumeStart" value="6, 0, 13#11, 7, 17#8, 12, 13#3, 18, 13#3, 7, 28#3, 1, 17#6, 1, 24#7, 7, 13" />
+    <property name="SleeperVolumeGroup" value="S_Zom_Utility_Worker,1,1,S_Zom_Businessman,3,3,S_-Group_Generic_Zombie,4,4,S_-Group_Generic_Zombie,5,5,S_Zom_Businessman,1,2,S_Zom_Utility_Worker,2,2,S_Zom_Utility_Worker,3,3,S_Zom_Businessman,1,1" />
+    <property name="SleeperVolumeGameStageAdjust" value="," />
+    <property name="SleeperIsLootVolume" value="False,False,True,False,False,False,False,False" />
+    <property name="DistantPOIYOffset" value="0" />
+    <property name="EditorGroups" value="downtown" />
+    <property name="SleeperIsBossVolume" value="False,False,False,False,False,False,False,False" />
+    <property name="DifficultyTier" value="2" />
+    <property name="QuestTags" value="clear,fetch,hidden_cache" />
+    <property name="ExcludePOICulling" value="False" />
+</prefab>

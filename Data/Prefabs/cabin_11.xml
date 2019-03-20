@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab>
+    <property name="CopyAirBlocks" value="True" />
+    <property name="ExcludeDistantPOIMesh" value="False" />
+    <property name="ExcludePOICulling" value="False" />
+    <property name="DistantPOIYOffset" value="0" />
+    <property name="AllowTopSoilDecorations" value="False" />
+    <property name="DifficultyTier" value="1" />
+    <property name="TraderArea" value="False" />
+    <property name="YOffset" value="-12" />
+    <property name="EditorGroups" value="Wilderness" />
+    <property name="SleeperVolumeSize" value="14, 8, 7#12, 5, 9#9, 7, 10#9, 10, 11#8, 3, 13#11, 5, 12" />
+    <property name="SleeperVolumeStart" value="4, 11, 10#21, 10, 9#15, 12, 23#15, 2, 22#27, 9, 27#4, 11, 22" />
+    <property name="SleeperVolumeGroup" value="S_-_Group_Biker_Bar,2,2,S_-_Group_Ghost_Town,2,2,S_-_Group_Ghost_Town,2,2,S_-_Group_Ghost_Town,2,2,S_-_Group_Biker_Bar,1,1,S_-_Group_Ghost_Town,1,1" />
+    <property name="SleeperIsLootVolume" value="False,False,False,False,False,False" />
+    <property name="SleeperIsBossVolume" value="False,False,False,False,False,False" />
+    <property name="QuestTags" value="clear,fetch,hidden_cache" />
+    <property name="Zoning" value="ResidentialOld" />
+    <property name="AllowedTownships" value="rural,wilderness" />
+</prefab>

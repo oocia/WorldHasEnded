@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab>
+    <property name="CopyAirBlocks" value="True" />
+    <property name="AllowTopSoilDecorations" value="False" />
+    <property name="Zoning" value="any" />
+    <property name="AllowedTownships" value="city,town,rural" />
+    <property name="YOffset" value="-2" />
+    <property name="ExcludeDistantPOIMesh" value="True" />
+    <property name="DistantPOIYOffset" value="0" />
+    <property name="EditorGroups" value="world/deco/biome" />
+    <property name="TraderArea" value="False" />
+    <property name="DifficultyTier" value="1" />
+</prefab>

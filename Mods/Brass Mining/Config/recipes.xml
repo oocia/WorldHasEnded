@@ -1,0 +1,10 @@
+<configs>
+	<append xpath="/recipes">
+
+		<recipe name="Brass_Compound" count="1" craft_area="cementMixer" always_unlocked="true">
+			<ingredient name="Copper_Fragment" count="5"/>
+			<ingredient name="Zinc_Fragment" count="5"/>
+		</recipe>
+
+	</append>
+</configs>

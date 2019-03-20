@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Brass Mining" />
+		<Description value="Adds copper and zinc ores to world gen which can be combined to make brass compound which can be smelted" />
+		<Author value="Sinz / Sol" />
+		<Version value="1" />
+		<Website value="http://7daystodie.com" />
+	</ModInfo>
+</xml>

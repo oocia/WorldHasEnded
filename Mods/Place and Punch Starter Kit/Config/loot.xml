@@ -1,0 +1,24 @@
+<configs>
+	<append xpath="/lootcontainers">
+
+		<lootgroup name="Starter_kit" count="all">
+			<item name="drinkJarRedTea" count="2"/>
+			<item name="foodChiliDog"/>
+			<item name="medicalFirstAidBandage"/>
+			<item name="meleeToolFlashlight02"/>
+			<item name="medicalFirstAidKit"/>
+			<item name="drugSteroids"/>
+			<item name="cowboyHat"/>
+			<item name="runningShoes"/>
+			<item name="denimPants"/>
+			<item name="flannelShirt"/>
+			<item name="meleeToolHuntingKnife" quality="3"/>
+			<item name="gunPistol" quality="3"/>
+		</lootgroup>
+
+		<lootcontainer id="250" count="1" size="8,9" sound_open="UseActions/open_cardboard" sound_close="UseActions/close_cardboard" loot_quality_template="treasureTemplate" destroy_on_close="true">
+			<item group="Starter_kit"/>
+		</lootcontainer>
+		
+	</append>
+</configs>

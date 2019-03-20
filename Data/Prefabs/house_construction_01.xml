@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab>
+    <property name="Zoning" value="ResidentialNew" />
+    <property name="AllowedTownships" value="city,town,rural,wilderness" />
+    <property name="RotationToFaceNorth" value="2" />
+    <property name="CopyAirBlocks" value="True" />
+    <property name="ExcludeDistantPOIMesh" value="False" />
+    <property name="DistantPOIYOffset" value="0" />
+    <property name="AllowTopSoilDecorations" value="False" />
+    <property name="TraderArea" value="False" />
+    <property name="EditorGroups" value="HOUSE CONST, house new" />
+    <property name="SleeperVolumeSize" value="17, 4, 14#17, 5, 14#17, 11, 15#5, 3, 8" />
+    <property name="SleeperVolumeStart" value="8, 6, 24#8, 1, 24#8, 10, 23#19, 11, 26" />
+    <property name="SleeperVolumeGroup" value="S_Zom_Utility_Worker,3,3,S_Zom_Utility_Worker,3,4,S_Zom_Utility_Worker,2,2,S_-Group_Generic_Zombie,2,2" />
+    <property name="SleeperIsLootVolume" value="False,False,False,True" />
+    <property name="SleeperIsBossVolume" value="False,False,False,False" />
+    <property name="YOffset" value="-5" />
+    <property name="DifficultyTier" value="1" />
+    <property name="QuestTags" value="clear,fetch,hidden_cache" />
+    <property name="ExcludePOICulling" value="False" />
+</prefab>

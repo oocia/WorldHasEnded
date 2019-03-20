@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab>
+    <property name="CopyAirBlocks" value="True" />
+    <property name="AllowTopSoilDecorations" value="False" />
+    <property name="YOffset" value="-2" />
+    <property name="Zoning" value="Commercial" />
+    <property name="RotationToFaceNorth" value="2" />
+    <property name="AllowedTownships" value="town,rural,wilderness" />
+    <property name="Condition" value="Old" />
+    <property name="TraderArea" value="False" />
+    <property name="ExcludeDistantPOIMesh" value="False" />
+    <property name="SleeperVolumeSize" value="40, 6, 48" />
+    <property name="SleeperVolumeStart" value="-14, 0, -15" />
+    <property name="SleeperVolumeGroup" value="S_-_Group_Ghost_Town,3,4" />
+    <property name="SleeperVolumeGameStageAdjust" value="hard" />
+    <property name="SleeperIsLootVolume" value="False" />
+    <property name="DistantPOIYOffset" value="0" />
+    <property name="EditorGroups" value="oldwest" />
+    <property name="SleeperIsBossVolume" value="False" />
+    <property name="DifficultyTier" value="1" />
+</prefab>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab>
+    <property name="Zoning" value="ResidentialOld" />
+    <property name="AllowedTownships" value="city,town,rural,wilderness" />
+    <property name="RotationToFaceNorth" value="2" />
+    <property name="CopyAirBlocks" value="True" />
+    <property name="ExcludeDistantPOIMesh" value="False" />
+    <property name="DistantPOIYOffset" value="0" />
+    <property name="AllowTopSoilDecorations" value="False" />
+    <property name="TraderArea" value="False" />
+    <property name="EditorGroups" value="house old" />
+    <property name="YOffset" value="-1" />
+    <property name="SleeperVolumeSize" value="8, 4, 6#10, 4, 13#8, 4, 10#6, 4, 11#7, 3, 5#9, 2, 8#22, 5, 13#8, 4, 7#4, 4, 4#9, 4, 5#5, 3, 12#8, 9, 9#8, 5, 7#9, 5, 11#8, 4, 11#7, 5, 12#9, 4, 5#8, 3, 4" />
+    <property name="SleeperVolumeStart" value="12, 4, 24#14, 3, 30#27, 4, 22#21, 4, 14#20, 4, 25#26, 9, 23#13, 8, 31#12, 9, 24#12, 9, 20#26, 13, 15#21, 14, 15#27, 4, 13#27, 13, 20#12, 14, 15#12, 4, 13#5, 8, 16#19, 9, 8#12, 14, 26" />
+    <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,3,3,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,3,3,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,3,4,S_-Group_Generic_Zombie,2,2,S_-_Group_Zom_Badass,3,3,S_-Group_Generic_Zombie,1,1,S_-Group_Generic_Zombie,2,2,S_-Group_Generic_Zombie,1,2,S_-_Group_Biker_Bar,2,2" />
+    <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False" />
+    <property name="SleeperIsBossVolume" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False" />
+    <property name="QuestTags" value="clear,fetch,hidden_cache" />
+    <property name="DifficultyTier" value="3" />
+    <property name="ExcludePOICulling" value="False" />
+</prefab>

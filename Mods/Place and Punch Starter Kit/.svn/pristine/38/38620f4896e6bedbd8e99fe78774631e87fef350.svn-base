@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Place and Punch Starter Kit" />
+		<Description value="A container that new players spawn with, when placed an punched will downgrade into a loot container with the starter kit items inside" />
+		<Author value="Sinz / Sol" />
+		<Version value="1" />
+		<Website value="http://7daystodie.com" />
+	</ModInfo>
+</xml>

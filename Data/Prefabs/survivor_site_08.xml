@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab>
+    <property name="CopyAirBlocks" value="True" />
+    <property name="AllowTopSoilDecorations" value="False" />
+    <property name="Zoning" value="NoZone" />
+    <property name="AllowedTownships" value="wilderness" />
+    <property name="ExcludeDistantPOIMesh" value="False" />
+    <property name="TraderArea" value="False" />
+    <property name="SleeperVolumeSize" value="21, 11, 21#5, 5, 16" />
+    <property name="SleeperVolumeStart" value="2, 0, 2#17, 0, 5" />
+    <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,9,10,S_-_Group_Biker_Bar,2,3" />
+    <property name="SleeperVolumeGameStageAdjust" value="" />
+    <property name="SleeperIsLootVolume" value="False,True" />
+    <property name="DistantPOIYOffset" value="0" />
+    <property name="EditorGroups" value="Wilderness" />
+    <property name="SleeperIsBossVolume" value="False,False" />
+    <property name="DifficultyTier" value="1" />
+    <property name="YOffset" value="-1" />
+    <property name="QuestTags" value="clear,fetch,hidden_cache" />
+    <property name="ExcludePOICulling" value="False" />
+</prefab>

@@ -1,0 +1,14 @@
+Replace:
+
+perkTheHuntsmanRank1Desc,progression,Perk,New,Harvest 20% more resources from animals using any bladed tool or weapon. Learn to craft Primative Rabbit Trap.,,,,,
+perkTheHuntsmanRank4Desc,progression,Perk,New,Harvest 80% more resources from animals using any bladed tool or weapon. Learn to craft Reusable Rabbit Trap.,,,,,
+
+Add:
+
+Herbivore_Bait_Desc,items,Resources,New,Used to craft Baited Traps.,,,,,
+Unbaited_Primitive_Rabbit_Trap_Desc,items,Resources,New,Add Herbivore Bait to this.,,,,,
+Baited_Primitive_Rabbit_Trap_Desc,blocks,Block,New,Place on terrain within sunlight and wait.,,,,,
+Unbaited_Reusable_Rabbit_Trap_Desc,items,Resources,New,Add Herbivore Bait to this.,,,,,
+Baited_Reusable_Rabbit_Trap_Desc,blocks,Block,New,Place on terrain within sunlight and wait.,,,,,
+Huntsman_Rank_1_Desc,items,Book,New,"For players who already had the perk when the mod was added because they wont have the recipes.".,,,,,
+Huntsman_Rank_4_Desc,items,Book,New,"For players who already had the perk when the mod was added because they wont have the recipes.".,,,,,

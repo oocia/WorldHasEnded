@@ -1,0 +1,48 @@
+<configs>
+	<append xpath="/items">
+
+		<item name="Copper_Fragment">
+			<property name="CustomIcon" value="resourceIronFragment"/>
+			<property name="CustomIconTint" value="ff7700"/>
+			<property name="Meshfile" value="Items/Misc/sackPrefab"/>
+			<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+			<property name="Material" value="copper"/>
+			<property name="Weight" value="0.5"/>
+			<property name="Stacknumber" value="1200"/> <!-- STK resource -->
+			<property name="SellableToTrader" value="false"/>
+			<property name="HoldType" value="45"/>
+			<property name="DropScale" value="3"/>
+			<!-- <property name="DescriptionKey" value="copperFragmentDesc"/> -->
+			<property name="Group" value="Resources"/>
+		</item>
+
+		<item name="Zinc_Fragment">
+			<property name="CustomIcon" value="resourceIronFragment"/>
+			<property name="CustomIconTint" value="91a3c1"/>
+			<property name="Meshfile" value="Items/Misc/sackPrefab"/>
+			<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+			<property name="Material" value="zinc"/>
+			<property name="Weight" value="0.5"/>
+			<property name="Stacknumber" value="1200"/> <!-- STK resource -->
+			<property name="SellableToTrader" value="false"/>
+			<property name="HoldType" value="45"/>
+			<property name="DropScale" value="3"/>
+			<!-- <property name="DescriptionKey" value="zincFragmentDesc"/> -->
+			<property name="Group" value="Resources"/>
+		</item>
+		
+		<item name="Brass_Compound">
+			<property name="CustomIcon" value="resourceCrushedSand"/>
+			<property name="CustomIconTint" value="f9cc27"/>
+			<property name="HoldType" value="45"/>
+			<property name="Meshfile" value="Items/Misc/sackPrefab"/>
+			<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+			<property name="Material" value="Mbrass_scrap"/>
+			<property name="Weight" value="5"/>
+			<property name="Stacknumber" value="1200"/> <!-- STK resource -->
+			<property name="SellableToTrader" value="false"/>
+			<property name="Group" value="Resources"/>
+		</item>
+
+	</append>
+</configs>
